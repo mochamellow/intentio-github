@@ -11,7 +11,7 @@ const config = {
 	},
 	trailingSlash: 'always',
 	paths: {
-		base: dev ? '' : '/intentio-gh'
+		base: dev ? '' : '/intentio-github'
 	}
 };
 
